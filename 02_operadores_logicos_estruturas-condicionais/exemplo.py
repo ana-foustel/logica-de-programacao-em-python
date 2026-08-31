@@ -2,7 +2,7 @@
 #1.OPERADORES LÓGICOS
 
 #and
-#Todas as condições precisam ser verdadeirasssss
+#Todas as condições precisam ser verdadeirasssssss
 
 idade = 20
 possui_carteira = True
