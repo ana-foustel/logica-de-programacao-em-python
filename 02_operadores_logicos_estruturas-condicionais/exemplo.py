@@ -16,7 +16,7 @@ print(resultado)
 idade = 16
 acompanhado = True
 
-resultado = idade .= 18 or acompanhado
+resultado = idade = 18 or acompanhado
 print(resultado)
 
 #not
